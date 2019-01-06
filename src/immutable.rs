@@ -1,6 +1,5 @@
 extern crate im;
 
-
 use im::{HashMap, HashSet, Vector};
 
 pub type Map<K, V> = HashMap<K, V>;
